@@ -1,0 +1,43 @@
+
+.home-paper{
+    
+    
+    width: 1300px;
+    margin:25px;
+    padding: 10px;
+
+  
+}
+.mens-wear-icon{
+margin-top: 100px;
+
+
+  
+}
+.paper-data{
+    color: grey;
+    margin-top: 17px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.forward-icon{
+    margin-top: 15px;
+    color: grey;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.paper-inside-parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.paper-inside-parent:hover{
+    transform: scale(1.5);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+  
+

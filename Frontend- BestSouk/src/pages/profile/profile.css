@@ -1,0 +1,76 @@
+.paper-profile{
+    background-size: contain;
+    width: 900px;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.paper-profile-text{
+    background-size: contain;
+    width: 400px;
+height: auto;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.parent-profile{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+.profile-paper-parent{
+  margin-top: 20px;  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 30px;
+    
+}
+.profile-text{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color:  #003f5C;;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.details-hr{
+    background: #003f5C;;
+    color:  #003f5C;
+    border-Color:  #003f5C;;
+     height: 2px;
+  }
+  .paper-inside-paper-profile{
+padding: 15px;
+margin-top: 10px;
+
+  }
+  .edit-button-profile-div{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+      }
+      .edit-button-profile{
+
+        padding: 10px;
+        width: 300px;
+        height: 50px;
+          }
+          .logout-button-profile{
+
+            padding: 5px;
+            width: 180px;
+            height: 50px;
+              }
+              .logout-button-div{
+margin-left: 1150px;
+margin-top: 30px;
+                  }

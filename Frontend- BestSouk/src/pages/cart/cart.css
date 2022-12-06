@@ -1,0 +1,47 @@
+.men-paper{
+    padding: 15px;
+    margin-top: 20px;
+    height: 300px;
+   width: 900px;
+    background-size: contain;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.web-scrape-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.pay-now-button{
+    width: 240px;
+  
+    border-radius: 25px;
+
+}
+
+.scrape-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.men-image-title{
+   margin-top: 8px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:grey;
+
+}
+.men-image-title{
+
+     font-style: bolder;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+ 
+ }
+ .menwear-addtocart-button{
+    width: 250px;
+    margin-top: 25px;
+    height: 40px;
+        
+    
+    }

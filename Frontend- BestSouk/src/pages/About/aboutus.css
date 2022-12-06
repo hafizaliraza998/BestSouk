@@ -1,0 +1,37 @@
+.paper-about-us{
+width: 1200px;
+margin-top: 40px;
+margin-bottom: 40px;
+padding: 5px;
+margin-left: 80px;
+}
+.aboutus-parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.parent-all{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+.aboutus-heading{
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:grey;
+
+ }
+ .aboutus-para{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:grey;
+ }
+.aboutus-welcome-text{
+    color:grey;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+ 

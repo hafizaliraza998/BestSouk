@@ -1,0 +1,106 @@
+.men-paper{
+    padding: 15px;
+    margin-top: 20px;
+    height: 300px;
+   width: 900px;
+    background-size: contain;
+    text-align: center;
+}
+.web-scrape-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+
+
+.scrape-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.men-image-title{
+   margin-top: 8px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:grey;
+
+}
+.men-image-title{
+
+     font-style: bolder;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+ 
+ }
+ .menwear-addtocart-button{
+    width: 250px;
+    margin-top: 25px;
+    height: 40px;
+        
+    
+    }
+    .paginationBttns {
+        width: 90%;
+        height: 40px;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+      }
+      
+      .paginationBttns a {
+        padding: 13px;
+        margin: 15px;
+        border-radius: 10px;
+        border: 1px solid #003f5C;
+        color: white;
+      
+        cursor: pointer;
+      }
+      
+      .paginationBttns a:hover {
+        color:white ;
+        background-color: grey;
+      }
+      
+      .paginationActive a {
+        color: white;
+        background-color: #003f5C;
+      }
+      
+      .paginationDisabled a {
+        color: lightgrey;
+        background-color: white;
+      }
+      input[type = 'text']{
+        width: 350px;
+        background-color: transparent;
+        transition: width 1s ease-in-out;
+        padding: 10px;
+        border-radius: 25px;
+       
+       
+      }
+      input[type = 'text']:focus{
+        width: 40%;
+        border-color: gray;
+        background-color: transparent;
+      }
+      .search-icon{
+        margin-top: 25px;
+        margin-bottom: 25px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+      }
+      .RangeSlider{
+        color: #003f5C;
+        width: 400px;
+
+      }
+      .dropdown{
+        background-color: #003f5C;
+        width: 250px;
+        border-radius: 15px;
+
+      }

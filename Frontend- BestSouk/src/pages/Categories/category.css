@@ -1,0 +1,28 @@
+.categoryParent{
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.categoryParentDiv{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.categoryPaperHeading{
+    color: gray;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.categoryChildPaper:hover{
+        transform: scale(1.2);
+        transition-duration: 0.5s;
+        cursor: pointer;
+}

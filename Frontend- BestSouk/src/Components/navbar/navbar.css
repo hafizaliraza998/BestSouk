@@ -1,0 +1,61 @@
+
+
+
+.navbar-parent{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navbar-parent-links{
+    
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items:center;
+    justify-content: center;
+
+
+}
+.promotions-button{
+    margin-top: 30px;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+.shopping-cart-icon{
+  
+    margin-top: 40px;
+    margin-left: 600px;
+ }
+
+.child-navbar:hover{
+  
+   transform: scale(2);
+   transition-duration: 0.5s;
+   cursor: pointer; 
+}
+.child-navbar{
+  
+    margin-left: 100px;
+ }
+ .child-navbar-links{
+    margin-left: 80px;
+  
+ }
+ .child-navbar-links-promotions{
+    margin-left: 100px;
+  
+ }
+.link-navbar{
+    text-decoration: none;
+    color: grey;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+    
